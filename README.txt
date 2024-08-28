@@ -7,7 +7,6 @@ This project is a decision-support software designed to solve complex problems b
 - Data Mining Techniques: Includes algorithms for pattern recognition, such as brute force rules and association rules, to analyze and extract insights from datasets.
 
 ## Project Structure
-- build/: Directory containing compiled .class files.
 - src/: Contains all source code, organized into packages and classes.
 - compilation.sh: A shell script to compile and run the program.
 
